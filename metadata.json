@@ -1,0 +1,6 @@
+{
+  "name": "Student Timetable",
+  "description": "A highly visual, modern weekly calendar and day-by-day planner for students. Includes class schedules, homework tasks, exam countdowns, real-time live course tracking, and color-coding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
